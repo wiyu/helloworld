@@ -5,7 +5,7 @@
     <groupId>com.github.wiyu</groupId>
     <artifactId>hello-world</artifactId>
     <packaging>pom</packaging>
-    <version>0.1.1</version>
+    <version>0.1.2-SNAPSHOT</version>
     <modules>
         <module>hi</module>
     </modules>
@@ -28,7 +28,7 @@
     <scm>
         <connection>scm:git:git@github.com:wiyu/helloworld.git</connection>
         <developerConnection>scm:git:git@github.com:wiyu/helloworld.git</developerConnection>
-        <tag>hello-world-0.1.1</tag>
+        <tag>hello-world-0.1.0</tag>
     </scm>
 
     <build>
