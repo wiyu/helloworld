@@ -4,7 +4,7 @@
 
     <groupId>com.github.wiyu</groupId>
     <artifactId>hello-world</artifactId>
-    <version>0.1.0-SNAPSHOT</version>
+    <version>0.1.0</version>
 
     <properties>
         <java.version>1.8</java.version>
@@ -24,7 +24,7 @@
     <scm>
         <connection>scm:git:git@github.com:wiyu/helloworld.git</connection>
         <developerConnection>scm:git:git@github.com:wiyu/helloworld.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>hello-world-0.1.0</tag>
     </scm>
 
     <build>
